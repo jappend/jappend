@@ -7,7 +7,12 @@ the best programmer I can be! I like to code stuff of my own and seeing how it r
 a little experiment, I also like to build projects from the ground up. I hope to create a big open 
 source project in the near future, just imagining it is really fun!
 
-![Jappend's GitHub stats](https://github-readme-stats.vercel.app/api?username=jappend&show_icons=true&theme=tokyonight)
+<div align="center">
+   <img height="180em"
+        src="https://github-readme-stats.vercel.app/api?username=jappend&count_private=true&show_icons=true&theme=codeSTACKr" />
+   <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jappend&layout=compact&theme=codeSTACKr&langs_count=7" />
+</div>
 
 ---
 
