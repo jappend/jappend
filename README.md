@@ -16,16 +16,25 @@ source project in the near future, just imagining it is really fun!
 
 ---
 
-### The Tools I Use!
+#### General
+<div align="center" style="text-align:center;margin-bottom:40px;padding-bottom:20px;border-bottom: 1px solid #FFF8">
+    <img src="https://img.shields.io/badge/git-030125?style=for-the-badge&logo=git" />
+    <img src="https://img.shields.io/badge/javascript-030125?style=for-the-badge&logo=javascript" />
+    <img src="https://img.shields.io/badge/golang-030125?style=for-the-badge&logo=go" />
+    <img src="https://img.shields.io/badge/python-030125?style=for-the-badge&logo=python" />
+    <img src="https://img.shields.io/badge/linux-030125?style=for-the-badge&logo=linux" />
+    <img src="https://img.shields.io/badge/neovim-030125?style=for-the-badge&logo=neovim" />
+</div>
 
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" />
+#### Frontend
+<div align="center" style="text-align:center;margin-bottom:40px;padding-bottom:20px;border-bottom: 1px solid #FFF8">
+    <img src="https://img.shields.io/badge/html-030125?style=for-the-badge&logo=html5" />
+    <img src="https://img.shields.io/badge/css-030125?style=for-the-badge&logo=css3" />
+    <img src="https://img.shields.io/badge/axios-030125?style=for-the-badge&logo=axios" />
+</div>
+
+#### Backend
+<div align="center" style="text-align:center;margin-bottom:40px;padding-bottom:20px;border-bottom: 1px solid #FFF8">
+    <img src="https://img.shields.io/badge/postgresql-030125?style=for-the-badge&logo=postgresql" />
+    <img src="https://img.shields.io/badge/docker-030125?style=for-the-badge&logo=docker" />
+</div>
